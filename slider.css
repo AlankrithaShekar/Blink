@@ -1,0 +1,33 @@
+.slidercontainer{
+    width: 400px;
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    height: 400px;
+    margin-top: 60px;
+    background: linear-gradient(red 0% ,  orange 15%, yellow 30%, green 45% , blue 60%,darkblue 75%,blueviolet 90%); /* Standard syntax (must be last) */
+}
+
+
+label{
+    text-align: Center;
+    clear: both; 
+    font-size: 24px;
+    color: white;
+
+}
+#text{
+color: black;
+margin-left:400px;
+margin-top: 20px;
+}
+
+
+
+
+
+
+      
+      
+    
+    
